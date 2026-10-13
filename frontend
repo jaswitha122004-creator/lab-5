@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Product Catalog</title>
+</head>
+<body>
+    <h1>Product Catalog</h1>
+
+    <section>
+        <h2>Smartphone</h2>
+        <img src="phone.jpg" width="150" alt="Smartphone">
+        <p>Price: ₹15,000</p>
+        <audio controls>
+            <source src="ad.mp3" type="audio/mpeg">
+        </audio>
+    </section>
+
+    <section>
+        <h2>Advertisement</h2>
+        <video width="320" controls>
+            <source src="ad.mp4" type="video/mp4">
+        </video>
+    </section>
+
+    <footer>
+        <p>Thank you for visiting!</p>
+    </footer>
+</body>
+</html>
